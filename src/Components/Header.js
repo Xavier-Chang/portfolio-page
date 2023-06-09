@@ -50,11 +50,6 @@ const Header = ({ data }) => {
             </a>
           </li>
           <li>
-            <a className="smoothscroll" href="#testimonials">
-              Testimonials
-            </a>
-          </li>
-          <li>
             <a className="smoothscroll" href="#contact">
               Contact
             </a>
@@ -68,7 +63,7 @@ const Header = ({ data }) => {
             <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
           </h1>
           <h3>
-            Based in {city}. <span>{occupation}</span>. {description}.
+            Based in {city}. <span>{occupation}</span>. <br />{description}.
           </h3>
           <hr />
           <ul className="social">{networks}</ul>

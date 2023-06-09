@@ -1,121 +1,94 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "Xavier Chang",
+    "occupation": "Full Stack Developer",
+    "description": "An enthusiastic Full-Stack Developer with a background in social work",
+    "image": "icon.jpg",
+    "bio": "Hi there, I'm Xavier! \n\n A driven Full-Stack Developer and a former social worker, leveraging my unique background to bring robust problem-solving skills and empathy into the tech space. Proficient in JavaScript (ES6), HTML5, CSS, SASS, MERN stack, and Vue.js. A quick learner and a proactive team player, I recently navigated a high-rated real-case Vue.js project after a short span of learning.\n\n Moved from Macau to the Netherlands seeking adventure and career progression, I am excited to contribute my skills and resilience to the vibrant Dutch tech industry. As an EU citizen, I am ready to embark on this journey without a work visa requirement. \n\nWith an adventurous spirit and a thirst for learning, I've transitioned from social work to tech, adapting swiftly to the Dutch culture and tech industry. Now, as my family is settled, I am eager to contribute to the tech space. If you have any opportunities or advice, don't hesitate to reach out at xavierchanglaiin@gmail.com.",
+    "contactmessage": "Get in touch with me!",
+    "email": "xavierchanglaiin@gmail.com",
+    "phone": "+31 627342441",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "city": "The Hague",
+      "state": "The Netherlands"
     },
-    "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/xavier-laiinchang",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/Xavier-Chang",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Ironhack Madrid, Remote",
+        "degree": "Web Development",
+        "graduated": "2022 to 2023",
+        "description": "- Intensive Full Stack Web Development Bootcamp\n- Completed 3 highly-rated projects using a ride range of front-end and back-end technologies such as HTML, CSS, JavaScript, and the MERN stack\n- Acquired practical experience in web development, teamwork, project management and problem-solving"
+      },
+      {
+        "school": "Macao Polytechnic University, Macau",
+        "degree": "Bachelor of Social Work Management",
+        "graduated": "2012 to 2016",
+        "description": "- Recipient of a 4-year scholarship for academic excellence\n- Developed strong project management, communication, teamwork, and problem- solving skills\n- Acquired skills in identifying and utilizing resources"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "title": "Full-stack Developer",
+        "company": "Freelance",
+        "years": "2023 - Present",
+        "description": "- Continuously expanding knowledge in web development technologies\n- Completed several projects, including a high-rated real estate application assessment for a company\n- Actively exploring freelance opportunities"
+      },
+      {
+        "title": "Social Worker",
+        "company": "Social Welfare Bureau of MSAR Government, Macau",
+        "years": "2019 - 2022",
+        "description": "- Healthy Harold Programme team member, helping children develop health and well-being life skills\n- Served 4,000+ students annually, focusing on holistic growth\n- Earned a 4/5 evaluation rating, highlighting dedication and effectiveness"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Front-End Technologies: HTML, CSS, JavaScript (ES6), Bootstrap, Sass, Tailwind, React.js, Vue.js, TypeScript"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "Back-End Technologies: Express.js, Node.js, MongoDB, Mongoose, Firebase"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "APIs and Networking: Rest API, AXIOS"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "Deployment and Version Control: Netlify, Git"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Database and Cloud Services: MongoDB Atlas"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Real Estate App",
+        "image": "real-estate.jpg",
+        "url": "https://xavier-real-estate-app.netlify.app"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "Daddabase",
+        "image": "daddabase.jpeg",
+        "url": "https://daddabase.netlify.app"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "title": "Zombie Surrounding",
+        "image": "zombie.jpeg",
+        "url": "https://xavier-chang.github.io/zombie-game"
       }
     ]
   }
